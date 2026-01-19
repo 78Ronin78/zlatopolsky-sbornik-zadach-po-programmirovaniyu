@@ -5,6 +5,6 @@
 */
 
 void main(List<String> arguments) {
-  double Pi = 3.14;
-  print('Число Пи с точностью до сотых: $Pi');
+  double pi = 3.14;
+  print('Число Пи с точностью до сотых: $pi');
 }
