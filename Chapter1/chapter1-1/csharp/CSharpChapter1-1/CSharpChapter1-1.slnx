@@ -1,3 +1,6 @@
 <Solution>
-  <Project Path="CSharpChapter1-1/CSharpChapter1-1.csproj" />
+  <Folder Name="/Элементы решения/">
+    <File Path=".gitignore" />
+  </Folder>
+  <Project Path="CSharpChapter1-1/CSharpChapter1-1.csproj" Id="ed20cce8-3a01-49a4-a95e-84efc306b9db" />
 </Solution>
